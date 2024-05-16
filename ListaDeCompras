@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Lista de comprar</h1>
+    <h3>Frutas:</h3>
+    <ul>
+        <li>Maçã</li>
+        <li>Banana</li>
+        <li>Uva</li>
+    </ul>
+    <hr>
+    <h3>Legumes:</h3>
+    <ul>
+        <li>Batata</li>
+        <li>Brócules</li>
+        <li>Berinjela</li>
+    </ul>
+    <hr>
+    <h3>Verduras:</h3>
+    <ul>
+        <li>Cebola</li>
+        <li>Cebolinha</li>
+        <li>Coentro</li>
+    </ul>
+</body>
+</html>
